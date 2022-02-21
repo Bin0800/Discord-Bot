@@ -1,6 +1,6 @@
 // Put BOT token here
 
-token = ODk5NDAwODYxODQxNzgwNzk3.YWyOUw.-gfR7PFnzuf-SDBqamfVh_RcVfM
+token = ""
 
 
 // This sets the owner of the bot
